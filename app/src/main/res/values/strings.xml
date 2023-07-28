@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Martial Anouman</string>
+    <string name="title">Android Developer</string>
+    <string name="phone">225 07 47 189 171</string>
+    <string name="social">\@martialanouman</string>
+    <string name="email">manouman@live.fr</string>
+</resources>
